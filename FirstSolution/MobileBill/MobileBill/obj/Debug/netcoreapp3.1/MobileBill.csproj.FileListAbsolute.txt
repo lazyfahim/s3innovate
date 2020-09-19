@@ -1,0 +1,13 @@
+C:\Users\fahim\Desktop\git\s3innovate\FirstSolution\MobileBill\MobileBill\bin\Debug\netcoreapp3.1\MobileBill.exe
+C:\Users\fahim\Desktop\git\s3innovate\FirstSolution\MobileBill\MobileBill\bin\Debug\netcoreapp3.1\MobileBill.deps.json
+C:\Users\fahim\Desktop\git\s3innovate\FirstSolution\MobileBill\MobileBill\bin\Debug\netcoreapp3.1\MobileBill.runtimeconfig.json
+C:\Users\fahim\Desktop\git\s3innovate\FirstSolution\MobileBill\MobileBill\bin\Debug\netcoreapp3.1\MobileBill.runtimeconfig.dev.json
+C:\Users\fahim\Desktop\git\s3innovate\FirstSolution\MobileBill\MobileBill\bin\Debug\netcoreapp3.1\MobileBill.dll
+C:\Users\fahim\Desktop\git\s3innovate\FirstSolution\MobileBill\MobileBill\bin\Debug\netcoreapp3.1\MobileBill.pdb
+C:\Users\fahim\Desktop\git\s3innovate\FirstSolution\MobileBill\MobileBill\obj\Debug\netcoreapp3.1\MobileBill.csprojAssemblyReference.cache
+C:\Users\fahim\Desktop\git\s3innovate\FirstSolution\MobileBill\MobileBill\obj\Debug\netcoreapp3.1\MobileBill.AssemblyInfoInputs.cache
+C:\Users\fahim\Desktop\git\s3innovate\FirstSolution\MobileBill\MobileBill\obj\Debug\netcoreapp3.1\MobileBill.AssemblyInfo.cs
+C:\Users\fahim\Desktop\git\s3innovate\FirstSolution\MobileBill\MobileBill\obj\Debug\netcoreapp3.1\MobileBill.csproj.CoreCompileInputs.cache
+C:\Users\fahim\Desktop\git\s3innovate\FirstSolution\MobileBill\MobileBill\obj\Debug\netcoreapp3.1\MobileBill.dll
+C:\Users\fahim\Desktop\git\s3innovate\FirstSolution\MobileBill\MobileBill\obj\Debug\netcoreapp3.1\MobileBill.pdb
+C:\Users\fahim\Desktop\git\s3innovate\FirstSolution\MobileBill\MobileBill\obj\Debug\netcoreapp3.1\MobileBill.genruntimeconfig.cache
